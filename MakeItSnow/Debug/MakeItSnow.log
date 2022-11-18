@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\SFML_Assignment_1\MakeItSnow\main.cpp(87,57): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\SFML_Assignment_1\MakeItSnow\main.cpp(132,27): warning C4018: '<': signed/unsigned mismatch
+  MakeItSnow.vcxproj -> D:\SFML_Assignment_1\Debug\MakeItSnow.exe
